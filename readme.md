@@ -18,3 +18,9 @@ Flashlight On
 - Hook useEffect
 - Add Listener to RNShake
 - Lifecicly ReactJS
+
+# Contact
+Lucas Farias - @fariasaguiar_ - lucas.fariasag@gmail.com
+
+# Acknowledgments
+https://www.dio.me/
