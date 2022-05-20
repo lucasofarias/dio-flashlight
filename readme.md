@@ -19,5 +19,5 @@ Flashlight On
 - Add Listener to RNShake
 - Lifecicly ReactJS
 
-# Acknowledgments
+## Acknowledgments
 https://www.dio.me/
